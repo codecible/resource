@@ -1,0 +1,7 @@
+# OpenAI API客户端库
+openai>=1.0.0
+
+# 系统环境变量管理
+python-dotenv>=1.0.0 
+
+requests>=2.31.0
